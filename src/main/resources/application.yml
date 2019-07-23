@@ -1,0 +1,4 @@
+zk:
+  url: 106.14.148.237:2181
+¡¡lockPath: /newlock
+¡¡timeout: 3000
